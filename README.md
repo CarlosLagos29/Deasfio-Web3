@@ -66,5 +66,10 @@ La aplicación recibe cualquier dato en el `input`. Ten en cuenta que la transac
 - **Vite**: Entorno de desarrollo.
 - **TypeScript**: Lenguaje de programación principal.
 
+### Otros
+
+- **MetaMask**: Billetera virtual usada para las prueba.
+- **Faucet Google Cloud Web3**: Para obtener monedas vituales (Ethereum Sepolia)
+
 
 
