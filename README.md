@@ -46,8 +46,14 @@ npm run dev
 
 ## DApp
 
-La aplicación recibe cualquier dato en el `input`. Ten en cuenta que la transacción puede tomar algunos segundos, pero estate tranquilo, ya que mientras se realiza, no se podrán enviar otras transacciones de manera consecutiva, esto para evitar errores.
+La aplicación permite interactuar con un campo de entrada (`input`). Aquí algunos detalles importantes:
 
+- **Validación de Campo de Entrada**: El campo de entrada no aceptará valores vacíos. El botón de enviar estará deshabilitado mientras el campo esté vacío, y se mostrará un mensaje de alerta al usuario.
+  
+- **Gestión de Transacciones**: Durante la ejecución de una transacción, el botón de enviar también estará deshabilitado para evitar errores y asegurar que no se intente realizar otra transacción antes de que la anterior haya concluido.
+
+- **Asociación de Billetera**: La Dapp cuenta con un apartado donde podrás verificar y confirmar que tu billetera está correctamente asociada. Esto es fundamental para la interacción con Metamask y la firma de transacciones.
+ 
 ## Tecnologías
 
 ### Backend
