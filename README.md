@@ -2,6 +2,8 @@
 
 Desafío Técnico para probar y testear el desarrollo de mi primera Dapp desarrollada desde cero. Cabe recalcar que esta es mi primera experiencia con este tipo de aplicaciones, lo cual se nota ya que me llevó bastante tiempo y esfuerzo poder desarrollarla. Dentro del código se encontrarán unos pocos comentarios para comprender mejor este.
 
+**A continuacion dejo [un grafico en Lucidchart para entender el flujo](https://lucid.app/lucidchart/0e1a5983-1daa-4fa9-ad60-0a3bab9b3f0a/edit?view_items=zt2TshdLVox6&invitationId=inv_bbac5a43-50bf-4bb7-9346-17f0da7ee495)*
+
 ## Primeros pasos
 
 Para poder interactuar y desplegar la aplicación, será necesario ejecutar algunos comandos en la terminal además de tener alguna billetera en el navegador como [Metamask](https://metamask.io/).
